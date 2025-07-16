@@ -1,0 +1,65 @@
+Item Name,Stat,Description,Effect
+Radiant Floor Tile,Quick ReDesigner +2,This beautifully crafted tile emits radiant warmth offering immunity to cold and aiding in recovery during short breaks.,Grants immunity to cold damage and provides healing during short rests.
+Ethereal Wallpaper,Quick ReDesigner +1,This ghostly wallpaper adapts to emotions imbuing rooms with a calming or exciting ambiance and bolstering resistance against fear or charm.,Creates a calming or exciting atmosphere granting advantage on Wisdom saving throws against fear or charm effects.
+Dimensional Wall Panel,Quick ReDesigner +2,This versatile wall panel folds and unfolds to create temporary portals for swift travel or escape.,Creates a portal to another location once per day.
+Timeless Hourglass,Quick ReDesigner +0,This shimmering hourglass suspends time giving its owner a momentary advantage in tasks requiring dexterity.,Temporarily slows down time for the owner granting advantage on Quick ReDesigner skill checks.
+Illuminating Floor Lamp,Cunning Remodeler +0,When activated this radiant floor lamp dispels darkness revealing concealed objects and enhancing investigative abilities.,Reveals hidden objects or creatures granting advantage on Cunning Remodeler skill checks for investigation.
+Melodic Wind Vane,Quick ReDesigner +0,This wind vane produces harmonious melodies with changing winds soothing and bolstering resilience against fear.,Creates a calming atmosphere and grants advantage on saving throws against fear effects.
+Echoing Grandfather Clock,Charming Expertise +1,The echoing grandfather clock's resounding chimes instill an intimidating presence aiding in persuasive efforts.,Creates an intimidating aura and grants advantage on Charming Expertise skill checks for intimidation.
+Fleetfooted Slippers,Quick ReDesigner +2,These enchanted slippers provide a burst of speed aiding in evading traps and escaping danger.,Increases movement speed.
+Blinking Cloak,Quick ReDesigner +1,This shimmering cloak allows the wearer to briefly become intangible making it easier to avoid enemy attacks.,Grants the ability to briefly phase out of reality.
+Swift Repair Kit,Quick ReDesigner +1,This compact kit infused with magic accelerates repair work making it more efficient.,Speeds up the renovation process.
+Mystic Bow,Quick ReDesigner +1,A bow infused with arcane energies dealing impressive damage from afar but reducing the wielder's speed due to its elegant craftsmanship.,Allows ranged attacks with arcane damage.
+Leafweave Robes,Quick ReDesigner +2,Mystical robes woven from living leaves and vines providing primal protection and resilience while allowing swift movement.,Provides enhanced mobility and evasion.
+Zephyr Blades,Quick ReDesigner +2,Razor-sharp blades that harness the cutting power of the wind itself allowing a flurry of swift strikes.,Grants extra attacks per round.
+Galeweave Cloak,Quick ReDesigner +1,A cloak that catches gusts of wind allowing the wearer to ride the currents and glide short distances.,Allows short distance magical gliding.
+Wind Dancer Bracers,Quick ReDesigner +1,Bracers that grant heightened reflexes and agility by harnessing the swiftness of the wind.,Boosts reflexes and evasion.
+Flamethrower Gadget,Quick ReDesigner +1,A device that projects torrents of mystical flame incinerating enemies in a wide arc.,Allows area of effect fire attacks.
+Crystal Chandelier,Charming Expertise +1,This dazzling chandelier emanates calmness fortifying against fear-inducing effects.,Creates an aura of calm granting advantage on saving throws against fear effects.
+Harmonious Wind Chimes,Charming Expertise +0,These wind chimes emit soothing melodies bolstering resistance to charm.,Creates a calming aura granting advantage on Wisdom saving throws against charm effects.
+Elemental Fireplace Hearth,Charming Expertise +2,This fireplace hearth channels elemental power enabling destructive elemental attacks.,Allows the owner to create a damaging blast of fire ice or lightning once per day.
+Elemental Sconces,Charming Expertise +1,These sconces emit elemental flames bolstering persuasion and intimidation.,Grants advantage on Charming Expertise skill checks for intimidation or persuasion while active.
+Enchanting Door Knocker,Charming Expertise +1,This door knocker exudes a welcoming aura deterring threats and aiding persuasion.,Temporarily wards off hostile creatures granting advantage on Charming Expertise skill checks for persuasion.
+Sorcerer's Amulet,Charming Expertise +1,This dazzling amulet amplifies your spellcasting making it more potent against enchanted beings.,Boosts the power of your spells enhancing their effectiveness in manipulating enchanted creatures.
+Spiritcaller's Horn,Charming Expertise +1,This mystical horn deepens your connection to magical creatures allowing you to call upon their assistance.,Strengthens your bond with magical creatures enabling you to summon their aid when needed.
+Elemental Fountain (2),Charming Expertise +0,This small fountain empowers water ice or fire related magic when within its vicinity.,Enhances magical abilities related to water ice or fire when nearby.
+Reflection Ring,Charming Expertise +1,This ring occasionally creates unintended illusions leading to confusion or distractions.,Sometimes causes illusionary backlashes occasionally confusing allies or causing distractions.
+Harmony Bell,Charming Expertise +1,This bell sometimes disrupts your reaction time resulting in delayed responses.,Occasionally slows your reflexes causing a delay in reacting to enemy attacks.
+Stellar Staff,Charming Expertise +2,A staff drawing power from constellations and planets allowing the wielder to harness the energies of the cosmos.,Channels the power of the cosmos.
+Starweave Cloak,Charming Expertise +1,A cloak embroidered with celestial patterns protecting the wearer with the mysteries of the night sky.,Provides mystical protection.
+Celestial Compass,Charming Expertise +1,A compass attuned to stars and galaxies guiding travelers through even the most alien planes and dimensions.,Allows navigation through mystical planes.
+Tidal Cutlass,Charming Expertise +2,A cutlass enchanted with the fury of the sea allowing its strikes to swell into crushing waves against enemies.,Deals massive water damage.
+Aquatic Corslet,Charming Expertise +1,Mystical armor that flows like the tide shielding the wearer in fathoms of water.,Creates a protective water barrier.
+Captain's Sextant,Charming Expertise +1,An arcane sextant that helps sailors navigate through even uncharted and treacherous mystical waters.,Aids in navigating mystical waters.
+Wildcaller Totem,Charming Expertise +1,A totem allowing the wielder to summon beasts and fauna to their aid.,Allows summoning of beasts and fauna.
+Fireheart Amulet,Charming Expertise +1,An amulet containing the enduring spark of an ancient fire elemental granting its wearer affinity with flame.,Grants affinity with flame and fire magic.
+Gilded Mirror,Brawny Builder +1,This opulent mirror boosts confidence enhancing Charming Expertise interactions.,Grants temporary confidence granting advantage on Charming Expertise skill checks.
+Enchanted Toolbox,Brawny Builder +2,This mystical toolbox ensures the right tools for every renovation task improving craftsmanship.,Grants advantage on Quick ReDesigner skill checks for craftsmanship and repairs.
+Enchanted Workbench,Brawny Builder +1,While at this workbench craftsmen find inspiration improving their crafting skills.,Grants inspiration granting advantage on Quick ReDesigner skill checks for crafting.
+Enchanted Carpets,Brawny Builder +0,These hovering carpets provide a magical surface enhancing mobility.,Increases movement speed.
+Master Craftsman's Apron,Brawny Builder +1,This apron enhances craftsmanship and attention to detail inspiring excellence in crafting endeavors.,Grants inspiration granting advantage on Cunning Remodeler skill checks for crafting.
+Charmer's Chisel,Brawny Builder +2,This masterfully crafted chisel aids in interactions with enchanted spirits granting advantage in such negotiations.,Enhances persuasive abilities during negotiations with enchanted spirits.
+Bulldozer's Gauntlets,Brawny Builder +2,These enchanted gauntlets provide incredible strength making it effortless to remove obstacles.,Amplifies your strength allowing you to demolish barriers and obstacles with ease.
+Builder's Mallet (1),Brawny Builder +1,A mallet imbued with magic to enhance woodworking skills and simplify the creation of enchanted items.,Boosts creation of enchanted items.
+Emberforged Hammer,Brawny Builder +2,A hammer forged in primal flames channeling the power of fire into the wielder's craftsmanship.,Adds fire damage to attacks.
+Flameforged Armguards,Brawny Builder +1,Armguards etched with fiery runes shielding the wearer from heat and flame.,Grants resistance to fire damage.
+Barkskin Garb,Brawny Builder +2,Armor that toughens the wearer's skin like bark turning away blades and arrows.,Boosts resilience and damage resistance.
+Pyromaniac's Suit,Brawny Builder +2,Alchemically treated armor that makes the wearer impervious to fire.,Grants immunity to fire damage.
+Cursed Wallpaper Roll,Cunning Remodeler +0,This ornate wallpaper roll confuses enemies with illusions offering a stealth advantage.,Grants advantage on stealth checks when applied creating an illusionary barrier.
+Artisan's Easel,Cunning Remodeler +2,Using this magical easel artists find inspiration enhancing their crafting and painting skills.,Grants inspiration for crafting or painting granting advantage on Cunning Remodeler skill checks.
+Restoration Blueprint,Cunning Remodeler +1,This ancient blueprint unveils concealed spaces aiding in exploration.,Provides insight into hidden passages or secret rooms granting advantage on Cunning Remodeler skill checks to find them.
+Astral Star Lantern,Cunning Remodeler +1,This lantern filled with starlight sharpens investigative skills in dimly lit environments.,Grants advantage on Cunning Remodeler skill checks for investigation or perception in dim light.
+Elemental Fountain,Cunning Remodeler +2,This small fountain empowers water ice or fire related magic when within its vicinity.,Enhances magical abilities related to water ice or fire when nearby.
+Enchanted Tapestries,Cunning Remodeler +1,These tapestries captivate enemies with ever changing illusions aiding in stealthy endeavors.,Creates illusionary distractions granting advantage on Quick ReDesigner skill checks for stealth.
+Arcane Library Bookshelf,Cunning Remodeler +0,The ancient tomes and scrolls on this bookshelf impart temporary expertise in various skills and tools.,Grants temporary proficiency in a specific Cunning Remodeler skill or tool when studied.
+Illuminating Skylight,Cunning Remodeler +0,This skylight bathes rooms in natural radiance inspiring heightened perception and insight.,Grants inspiration granting advantage on Cunning Remodeler skill checks for perception or insight.
+Sage's Blueprint,Cunning Remodeler +2,This arcane blueprint is infused with knowledge granting an advantage in discerning the secrets of magical objects.,Provides insights into the magical properties you encounter.
+Technomancer's Goggles,Cunning Remodeler +1,These enchanted goggles make you adept at handling magical devices and solving enchanted puzzles.,Enhances your ability to interact with magical mechanisms and decipher enchanted puzzles.
+Illusionist's Mirror,Cunning Remodeler +1,This mirror enhances your illusions making them more captivating and distracting.,Reflects and amplifies your illusion casting abilities.
+Enchanted Dagger,Cunning Remodeler +1,A small yet powerful dagger perfect for quick strikes and stealthy attacks designed with precision and flair.,Allows stealthy strikes and critical hits.
+Arcane Wand,Cunning Remodeler +2,A wand channeling magical energy allowing spellcasters to weave their designs from afar and inflict greater damage.,Boosts spell power and damage.
+Leafweave Robes,Cunning Remodeler +2,Mystical robes woven from living leaves and vines providing primal protection and resilience while allowing swift movement.,Provides enhanced mobility and evasion.
+Zephyr Blades,Cunning Remodeler +2,Razor-sharp blades that harness the cutting power of the wind itself allowing a flurry of swift strikes.,Grants extra attacks per round.
+Galeweave Cloak,Cunning Remodeler +1,A cloak that catches gusts of wind allowing the wearer to ride the currents and glide short distances.,Allows short distance magical gliding.
+Wind Dancer Bracers,Cunning Remodeler +1,Bracers that grant heightened reflexes and agility by harnessing the swiftness of the wind.,Boosts reflexes and evasion.
+Flamethrower Gadget,Cunning Remodeler +1,A device that projects torrents of mystical flame incinerating enemies in a wide arc.,Allows area of effect fire attacks.
