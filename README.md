@@ -1,3 +1,5 @@
+This project was created as part of a personal initiative to experiment with interactive web applications and AI for a Homebrew Tabletop Roleplaying Game I created. Development was assisted by ChatGPT, providing support in coding, logic structuring, and interface design.
+
 # 💼 Item Card Generator
 
 Generate stylish, printable 3.5" x 2" tabletop item cards from a CSV file — great for equipment, loot, consumables, or custom magic items.
